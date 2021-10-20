@@ -11,7 +11,6 @@ import CoreData
 
 
 class MyLibraryTableViewController: UITableViewController, UISearchResultsUpdating {
-//    Testing git
     
     var movieListImageController: MovieListImageNetworkController = MovieListImageNetworkController()
     @IBOutlet weak var navTitle: UINavigationItem!
